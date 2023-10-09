@@ -36,11 +36,31 @@ margin-top: 0;
     background-color: yellow;
 }
 
-.head{
-    background-color: rgb(84, 161, 244);
+thead{
+    background-color: rgb(79, 154, 225);
     color: white;
+    
 }
 
-.head .casella{
-    margin-left: 0px;
+#th1{
+    width: 25%;
+}
+
+#th2{
+    width: 25%;
+}
+
+#th3{
+    width: 50%;
+}
+
+table {
+    border-collapse: collapse;
+    width: auto;
+    height: auto;
+    text-align: left;
+}
+
+#rigachiara{
+    background-color: lightblue;
 }
