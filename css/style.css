@@ -13,6 +13,30 @@ header{
 
 /* main impostazioni */
 
+h1{
+    margin-bottom: 0;
+}
+
+h2{
+color: grey;
+font-size: 75%;
+margin-top: 0;
+}
+
 #nome_autore {
     color: rgb(0, 180, 240);
+}
+
+#didascalia {
+    margin-top: 0;
+    font-size: 50%;
+}
+
+.evidenziatore{
+    background-color: yellow;
+}
+
+#headtabella{
+    background-color: rgb(84, 161, 244);
+    color: white;
 }
