@@ -1,0 +1,18 @@
+/* header impostazioni */
+header{
+    background-image: url(../img/pattern.png);
+    background-size: 50%;
+    background-color: rgb(19, 148, 253);
+}
+
+#booleaner{
+    margin-top: 5%;
+    height: 30%;
+    width: 30%;
+}
+
+/* main impostazioni */
+
+#nome_autore {
+    color: rgb(0, 180, 240);
+}
