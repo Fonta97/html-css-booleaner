@@ -36,7 +36,11 @@ margin-top: 0;
     background-color: yellow;
 }
 
-#headtabella{
+.head{
     background-color: rgb(84, 161, 244);
     color: white;
+}
+
+.head .casella{
+    margin-left: 0px;
 }
